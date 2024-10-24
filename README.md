@@ -1,8 +1,9 @@
 ### Hi there! I'm Jean 👋
 
-You can acess my website to see more infos about me. 🤠
+Check out my website for more info about me! 🤠
 
 👉 [jeanreis.dev](https://www.jeanreis.dev)
 
+![image](https://github.com/user-attachments/assets/7dfa10c8-e014-4c2d-b4b9-4713f752fa76)
 
-![Screenshot](https://user-images.githubusercontent.com/56928460/190211830-750fd4eb-d329-419a-a4ca-671684649cfe.PNG)
+
